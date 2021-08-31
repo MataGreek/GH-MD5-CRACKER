@@ -1,5 +1,5 @@
 # GH-MD5-CRACKER
-<p>Welcome to the Greek Hacking MD5 hash cracker.</p
+<p>Welcome to the Greek Hacking MD5 hash cracker.</p>
   
 # INSTALLING
 <p>pip install -r requirements</p>
